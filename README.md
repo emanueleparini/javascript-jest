@@ -1,5 +1,5 @@
 
-Javascript project for Reviva.
+Javascript project.
 The inputs for test cases are harded-coded in the unit test scenarios in Jest.
 
 # How to run the project
